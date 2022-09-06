@@ -2,7 +2,7 @@
 Birthday Calculator
 Created by @Meooown on Github
 Created in 8/31/2022
-Last updated 8/31/2022
+Last updated 9/6/2022
 """
 
 #Variables
