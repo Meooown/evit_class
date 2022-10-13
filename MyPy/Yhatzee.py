@@ -2,7 +2,7 @@
 Yhatzee
 Created by @Meooown on Github
 Created 9/23/2022
-Last updated 10/12/2022
+Last updated 10/13/2022
 """
 
 ## -- Setup -- ##
